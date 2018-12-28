@@ -1,0 +1,8 @@
+Testsuite: ua.nure.kn.dvonikova.usermanagement.db.HsqlUserDaoTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,355 sec
+
+Testcase: testFindAll took 0,298 sec
+Testcase: testFind took 0,011 sec
+Testcase: testUpdateUser took 0,015 sec
+Testcase: testCreate took 0,02 sec
+Testcase: testDelete took 0,01 sec

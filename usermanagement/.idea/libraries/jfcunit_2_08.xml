@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jfcunit-2.08">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jfcunit-2.08.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
